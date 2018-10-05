@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category OVV
+ * @package OVV_GeneratorCodeMinifier
+ * @copyright Copyright (c) 2018 Ovakimyan Vazgen
+ * @license https://opensource.org/licenses/OSL-3.0 Open Software License ("OSL") v. 3.0
+ * @author Ovakimyan Vazgen
+ * @link https://www.linkedin.com/in/vdevx86/
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="OVV_GeneratorCodeMinifier" setup_version="1.0.0"/>
+</config>
